@@ -1,0 +1,31 @@
+{
+ "id": "b05",
+ "out": "/Users/admin/work/shorts/out/b05_rowing_sunset.mp4",
+ "segments": [
+  {
+   "src": "Vibe Video 16.mov",
+   "start": 3813,
+   "dur": 16,
+   "x": 0.55
+  }
+ ],
+ "audio": {
+  "src": "Vibe Video 16.mov",
+  "start": 3813,
+  "gain_db": 6
+ },
+ "music": {
+  "file": "/Users/admin/work/shorts/music/own_guitar_02.mp3",
+  "start": 20,
+  "rel_db": -1
+ },
+ "texts": [
+  {
+   "text": "Rowing home as\nthe sun goes down",
+   "t0": 0,
+   "t1": 4.2,
+   "pos": "top"
+  }
+ ],
+ "fps": 60
+}

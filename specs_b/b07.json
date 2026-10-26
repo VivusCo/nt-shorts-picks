@@ -1,0 +1,32 @@
+{
+ "id": "b07",
+ "out": "/Users/admin/work/shorts/out/b07_library.mp4",
+ "xfade": 0.35,
+ "segments": [
+  {
+   "src": "Vibe Video 15.mov",
+   "start": 5365,
+   "dur": 12,
+   "x": 0.6
+  }
+ ],
+ "audio": {
+  "src": "Vibe Video 15.mov",
+  "start": 5349,
+  "gain_db": 6
+ },
+ "music": {
+  "file": "/Users/admin/work/shorts/music/own_piano_01.mp3",
+  "start": 25,
+  "rel_db": -1
+ },
+ "texts": [
+  {
+   "text": "I built a tiny library\nin the cherry forest",
+   "t0": 0,
+   "t1": 4.4,
+   "pos": "top"
+  }
+ ],
+ "fps": 60
+}

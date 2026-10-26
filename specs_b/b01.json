@@ -1,0 +1,31 @@
+{
+ "id": "b01",
+ "fps": 60,
+ "out": "/Users/admin/work/shorts/out/b01_stable_night.mp4",
+ "segments": [
+  {
+   "src": "ep25.mp4",
+   "start": 3124,
+   "dur": 11,
+   "x": 0.45
+  }
+ ],
+ "audio": {
+  "src": "ep25.mp4",
+  "start": 3124,
+  "gain_db": 6
+ },
+ "music": {
+  "file": "/Users/admin/work/shorts/music/own_night_03.mp3",
+  "start": 2,
+  "rel_db": -1
+ },
+ "texts": [
+  {
+   "text": "POV: you finished the stable\njust before nightfall",
+   "t0": 0,
+   "t1": 4.0,
+   "pos": "top"
+  }
+ ]
+}

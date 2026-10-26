@@ -1,0 +1,33 @@
+{
+ "id": "b06",
+ "out": "/Users/admin/work/shorts/out/b06_rain_house.mp4",
+ "segments": [
+  {
+   "src": "Vibe Video 16.mov",
+   "start": 4723,
+   "dur": 6,
+   "x": 0.72
+  },
+  {
+   "src": "Vibe Video 16.mov",
+   "start": 4732.5,
+   "dur": 7,
+   "x": 0.72
+  }
+ ],
+ "audio": {
+  "src": "Vibe Video 16.mov",
+  "start": 4723,
+  "gain_db": 5
+ },
+ "texts": [
+  {
+   "text": "Just listen\nto the rain",
+   "t0": 0,
+   "t1": 4.0,
+   "pos": "top"
+  }
+ ],
+ "fps": 60,
+ "xfade": 0.4
+}

@@ -1,0 +1,66 @@
+{
+ "id": "b03",
+ "out": "/Users/admin/work/shorts/out/b03_windmill_farm.mp4",
+ "xfade": 0.35,
+ "segments": [
+  {
+   "src": "Vibe Video 20.mov",
+   "start": 5,
+   "dur": 5,
+   "x": 0.55
+  },
+  {
+   "src": "Vibe Video 20.mov",
+   "start": 5593,
+   "dur": 6,
+   "x": 0.4
+  },
+  {
+   "src": "Vibe Video 20.mov",
+   "start": 6022,
+   "dur": 8,
+   "x": 0.3,
+   "x1": 0.36
+  }
+ ],
+ "audio": {
+  "src": "Vibe Video 20.mov",
+  "start": 6022,
+  "gain_db": 6
+ },
+ "music": {
+  "file": "/Users/admin/work/shorts/music/own_morning_04.mp3",
+  "start": 0,
+  "rel_db": -1
+ },
+ "texts": [
+  {
+   "text": "I turned this hill\ninto a farm",
+   "t0": 0,
+   "t1": 4.6,
+   "pos": "top"
+  },
+  {
+   "text": "before",
+   "t0": 0.6,
+   "t1": 4.6,
+   "pos": "bottom",
+   "size": 70
+  },
+  {
+   "text": "after, at night",
+   "t0": 5.0,
+   "t1": 10.4,
+   "pos": "bottom",
+   "size": 70
+  },
+  {
+   "text": "and in the morning",
+   "t0": 10.8,
+   "t1": 17.5,
+   "pos": "bottom",
+   "size": 70
+  }
+ ],
+ "fps": 60
+}

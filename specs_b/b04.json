@@ -1,0 +1,31 @@
+{
+ "id": "b04",
+ "out": "/Users/admin/work/shorts/out/b04_cottage_sunset.mp4",
+ "segments": [
+  {
+   "src": "Vibe Video 15.mov",
+   "start": 3521,
+   "dur": 14,
+   "x": 0.42
+  }
+ ],
+ "audio": {
+  "src": "Vibe Video 15.mov",
+  "start": 3521,
+  "gain_db": 6
+ },
+ "music": {
+  "file": "/Users/admin/work/shorts/music/own_piano_01.mp3",
+  "start": 0,
+  "rel_db": -1
+ },
+ "texts": [
+  {
+   "text": "This is why\nI play Minecraft",
+   "t0": 0,
+   "t1": 4.2,
+   "pos": "top"
+  }
+ ],
+ "fps": 60
+}
